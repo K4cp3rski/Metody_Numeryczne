@@ -42,3 +42,7 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+
+cw_02.03.2022/.idea/
+
+cw_02.03.2022/cmake-build-debug/
